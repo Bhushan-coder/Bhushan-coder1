@@ -1,139 +1,49 @@
-<!-- MIDNIGHT AURORA THEME: deep-plum gradients, neon orchid and aurora mint -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10002B,45:3C096C,100:00F5D4&section=header&animation=twinkling" width="100%" alt="Header banner"/>  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1500&color=00F5D4&center=true&vCenter=true&repeat=false&width=850&height=90&lines=BHUSHAN+PRAVIN+PATIL" alt="Bhushan Pravin Patil"/>  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=850&height=50&lines=Computer+Science+Student;Aspiring+Java+Developer;Learning+Cloud+%26+DevOps;Building+Projects+and+Improving+Every+Day" alt="Animated introduction"/>  <br/>
-  <img src="https://img.shields.io/badge/EDUCATION-B.TECH%20COMPUTER%20SCIENCE-0284C7?style=for-the-badge&labelColor=10002B" alt="Education"/>
-  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-0284C7?style=for-the-badge&labelColor=10002B" alt="Location"/>
-  <img src="https://img.shields.io/badge/FOCUS-JAVA%20%C2%B7%20SOFTWARE%20DEVELOPMENT-0284C7?style=for-the-badge&labelColor=10002B" alt="Focus"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050F09,45:0A3B1A,100:00FF41&section=header&animation=twinkling" width="100%" alt="Header banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=90&lines=BHUSHAN+PATIL" alt="Bhushan Patil"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E6FFE6&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Java+Developer;B.Tech+in+Computer+Science;Building+Backend+Systems+%26+Databases;Core+Java+%7C+Python+%7C+SQL;Exploring+Full+Stack+%26+DevOps" alt="Animated introduction"/>
+  <br/>
+  <img src="https://img.shields.io/badge/EDUCATION-B.TECH%20CSE-10B981?style=for-the-badge&labelColor=050F09" alt="Education"/> <img src="https://img.shields.io/badge/BASED%20IN-PUNE,%20INDIA-10B981?style=for-the-badge&labelColor=050F09" alt="Location"/> <img src="https://img.shields.io/badge/FOCUS-JAVA%20%C2%B7%20BACKEND-10B981?style=for-the-badge&labelColor=050F09" alt="Focus"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/Your-GitHub-Username"><img src="https://img.shields.io/github/followers/Your-GitHub-Username?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=10B981&labelColor=050F09" alt="GitHub followers"/></a> <img src="https://komarev.com/ghpvc/?username=Your-GitHub-Username&style=flat-square&color=10B981&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050F09,50:00FF41,100:050F09" width="100%" alt=""/>
 
-<a href="https://www.linkedin.com/in/bhushan-patil31/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Bhushan-coder">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Bhushan-coder&style=flat-square&color=7209B7&label=PROFILE+VIEWS" alt="Profile views"/>
-</div><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
-</div><table>
-<tr>
-<td width="58%" valign="top">Hello, I'm Bhushan 👋
-I'm a Computer Science and Engineering student at Sandip University, Nashik, interested in software development and building practical applications.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=10B981&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
+</div>
 
-I'm developing my programming skills with a focus on Java, object-oriented programming, databases, and problem-solving. I'm also exploring cloud computing and DevOps tools as I expand my technical knowledge.
-- ☕ Learning and practicing Core Java
-- 💻 Programming with Java, C and Python
-- 🌐 Working with HTML, CSS and JavaScript
-- 🗄️ Practicing database operations using SQL and PostgreSQL
-- 🔧 Learning Git and GitHub
-- ☁️ Exploring AWS, Linux and DevOps fundamentals
-- 🚀 Interested in software development opportunities and collaborative projects
-</td>
-<td width="42%" valign="top">$ whoami
-bhushan-pravin-patil
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### Hello, I'm Bhushan 👋
+
+I'm a Software Engineer based in Pune (Wakad), India, with a B.Tech in Computer Science and Engineering (8.33 CGPA). I have a strong foundation in logic, problem-solving, and building applications.
+
+I focus on writing clean, object-oriented code and designing efficient database structures. I am currently expanding my skill set into Full Stack Java and DevOps practices.
+
+- ☕ Backend development with **Core Java**
+- 🐍 Scripting & logic with **Python & C**
+- 🗄️ Database management with **SQL & MySQL**
+- 🔌 Database connectivity with **JDBC**
+- 🌐 Frontend structuring with **HTML5/CSS3**
+    </td>
+    <td width="42%" valign="top">
+
+```bash
+$ whoami
+bhushan-patil
 
 $ cat profile.yml
-education: B.Tech CSE
-university: Sandip University
-location: India
+role:       Software Engineer
+location:   Pune, Maharashtra
+education:  B.Tech CSE (8.33 CGPA)
+core:       [Core Java, Python, C, 
+             SQL, HTML/CSS]
+focus:      [OOPs, JDBC, Backend,
+             Problem Solving]
 
-role: Aspiring Java Developer
-
-languages:
-  - Java
-  - C
-  - Python
-  - JavaScript
-
-databases:
-  - SQL
-  - PostgreSQL
-
-currently_exploring:
-  - AWS
-  - DevOps
-  - Jenkins
-  - Linux
-
-$ echo $STATUS
-learning_and_building
-</td>
-</tr>
-</table>Open to learning and collaboration — interested in Java development, software engineering, cloud technologies, and beginner-friendly open-source projects.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Technology arsenal"/>
-</div><div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,postgres,git,github,vscode,idea,linux,aws&theme=dark&perline=7" alt="Technology skills"/>
-</div>Domain	Tools and technologies
-💻 Programming	Java, C, Python
-🌐 Web basics	HTML, CSS, JavaScript
-🗄️ Database	SQL, PostgreSQL, JDBC
-🔧 Version Control	Git, GitHub
-☁️ Cloud & DevOps (Learning)	AWS EC2, Linux, Jenkins, DevOps fundamentals
-🛠️ Development Tools	IntelliJ IDEA, Visual Studio Code
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured projects"/>
-</div><table>
-<tr>
-<td width="50%" valign="top">🐍 Python Snake Game
-A classic Snake Game developed using Python. This project helped me practice programming fundamentals, conditions, loops, and game logic.
-
-Key concepts
-- Python programming
-- Conditional statements and loops
-- Game logic and problem-solving
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-<td width="50%" valign="top">🏪 Java Shop Management System
-A Java project focused on basic shop-management operations and customer orders.
-
-Key concepts
-- Core Java
-- Object-oriented programming
-- Classes, objects and methods
-- Application logic
-<img src="https://img.shields.io/badge/Java-F15BB5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
-</tr>
-</table><div align="center">
-  <a href="https://github.com/Bhushan-coder?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories_%E2%86%92-0284C7?style=for-the-badge&logo=github&logoColor=white&labelColor=10002B" alt="Explore repositories"/>
-  </a>
-</div><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
-  <br/><br/>
-  <a href="https://github.com/Bhushan-coder">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhushan-coder&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/Bhushan-coder">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-coder&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages"/>
-  </a>
-  <br/><br/>
-  <img width="75%" src="https://streak-stats.demolab.com?user=Bhushan-coder&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
-</div><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution graph"/>
-  <br/><br/>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-coder&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution graph"/>
-</div><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently learning"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Java-Core%20Java%20%26%20OOP-F15BB5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java"/>
-  <img src="https://img.shields.io/badge/Database-JDBC%20%26%20PostgreSQL-00B4D8?style=for-the-badge&logo=postgresql&logoColor=white" alt="JDBC and PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/DevOps-Linux%20%26%20Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="DevOps"/>
-</div><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10002B,50:F15BB5,100:10002B" width="100%" alt=""/><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=F15BB5&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
-  <br/><br/>
-  **Interested in Java development, software engineering, and cloud technologies? Let's connect and learn together.**
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/bhushan-patil31/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhushan_Patil-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Bhushan-coder">
-    <img src="https://img.shields.io/badge/GitHub-Bhushan--coder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=F15BB5&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Learn.+Build.+Improve.+Repeat." alt="Learn. Build. Improve. Repeat."/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F5D4,50:3C096C,100:10002B" width="100%" alt="Footer banner"/>
-</div>
+$echo$STATUS
+open_to_opportunities
